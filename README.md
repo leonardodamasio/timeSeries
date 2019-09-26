@@ -15,7 +15,7 @@ Sendo assim, fique a vontade para testá-los :)
 
 Todos os modelos foram feitos através da linguagem *Python* e linguagem *R* no **Jupyter Lab**.
 
-Algumas das bibliotecas utilizadas em Python foram `Pandas`, `NumPy`, `MatPlotLib`, `statsmodels`, `datetime` e `pmdarima`.
+Algumas das bibliotecas utilizadas em Python foram `Pandas`, `NumPy`, `MatPlotLib`, `StatsModels`, `datetime` e `pmdarima`.
 
 Já em R, foram utilizadas as bibliotecas `x`, `x` e `x`, 
 
