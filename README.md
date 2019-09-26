@@ -17,7 +17,7 @@ Todos os modelos foram feitos através da linguagem *Python* e linguagem *R* no 
 
 Algumas das bibliotecas utilizadas em Python foram `Pandas`, `NumPy`, `MatPlotLib`, `StatsModels`, `datetime` e `pmdarima`.
 
-Já em R, foram utilizadas as bibliotecas `x`, `x` e `x`, 
+Já em R, foi utilizada a biblioteca `forecast`. 
 
 Qualquer dúvida, favor entrar em contato:
 
